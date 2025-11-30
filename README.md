@@ -1,0 +1,2 @@
+# Project-of-Cricket-Analysis-using-Python-and-Data-Science.
+Cricket analysis involves studying player performance, match statistics, and game conditions to gain deeper insights into the sport. It includes examining batting, bowling, and fielding data to identify patterns and trends. Using tools like data visualization and predictive models, analysts can evaluate strengths, weaknesses, and match stragies.
